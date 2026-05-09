@@ -1,0 +1,6 @@
+import time_series_visualizer as tsv
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+print(tsv.draw_bar_plot)
